@@ -73,13 +73,13 @@ namespace mrsd
 				}
 		}
 
-		 // Helper to display safeSpot grid with player
-		// for (int i=0; i<200; ++i)
-		// {
-		// 	if(i == int(p->x)) std::cout << "-1";
-		// 	else std::cout << state[i];
-		// }
-		// std::cout << std::endl;
+		// Helper to display safeSpot grid with player
+		for (int i=0; i<200; ++i)
+		{
+			if(i == int(p->x)) std::cout << "-1";
+			else std::cout << state[i];
+		}
+		std::cout << std::endl;
 	}
 
 	int Controller::pickSafeSpot(const Game& g)
