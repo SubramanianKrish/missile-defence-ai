@@ -1,0 +1,127 @@
+[
+{
+  "directory": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/build",
+  "command": "/usr/bin/c++    -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/include\"   -g -Wall -std=c++11   -o CMakeFiles/missiledefense.dir/src/startup.cpp.o -c \"/home/subbu/Documents/MRSD assignments/missile-defence-ai/src/startup.cpp\"",
+  "file": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/src/startup.cpp"
+},
+{
+  "directory": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/build",
+  "command": "/usr/bin/c++    -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/include\"   -g -Wall -std=c++11   -o CMakeFiles/missiledefense.dir/src/Game.cpp.o -c \"/home/subbu/Documents/MRSD assignments/missile-defence-ai/src/Game.cpp\"",
+  "file": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/src/Game.cpp"
+},
+{
+  "directory": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/build",
+  "command": "/usr/bin/cc   -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/include\"    -o CMakeFiles/missiledefense.dir/src/glad.c.o   -c \"/home/subbu/Documents/MRSD assignments/missile-defence-ai/src/glad.c\"",
+  "file": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/src/glad.c"
+},
+{
+  "directory": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/build",
+  "command": "/usr/bin/c++    -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/include\"   -g -Wall -std=c++11   -o CMakeFiles/missiledefense.dir/src/gl_frontend.cpp.o -c \"/home/subbu/Documents/MRSD assignments/missile-defence-ai/src/gl_frontend.cpp\"",
+  "file": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/src/gl_frontend.cpp"
+},
+{
+  "directory": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/build",
+  "command": "/usr/bin/c++    -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/include\"   -g -Wall -std=c++11   -o CMakeFiles/missiledefense.dir/src/glutils.cpp.o -c \"/home/subbu/Documents/MRSD assignments/missile-defence-ai/src/glutils.cpp\"",
+  "file": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/src/glutils.cpp"
+},
+{
+  "directory": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/build",
+  "command": "/usr/bin/c++    -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/include\"   -g -Wall -std=c++11   -o CMakeFiles/missiledefense.dir/src/GLMesh.cpp.o -c \"/home/subbu/Documents/MRSD assignments/missile-defence-ai/src/GLMesh.cpp\"",
+  "file": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/src/GLMesh.cpp"
+},
+{
+  "directory": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/build",
+  "command": "/usr/bin/c++    -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/include\"   -g -Wall -std=c++11   -o CMakeFiles/missiledefense.dir/src/Controller.cpp.o -c \"/home/subbu/Documents/MRSD assignments/missile-defence-ai/src/Controller.cpp\"",
+  "file": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/src/Controller.cpp"
+},
+{
+  "directory": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/build",
+  "command": "/usr/bin/c++    -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/include\"   -g -Wall -std=c++11   -o CMakeFiles/glfw_test.dir/src/glfw_test.cpp.o -c \"/home/subbu/Documents/MRSD assignments/missile-defence-ai/src/glfw_test.cpp\"",
+  "file": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/src/glfw_test.cpp"
+},
+{
+  "directory": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/build",
+  "command": "/usr/bin/cc   -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/include\"    -o CMakeFiles/glfw_test.dir/src/glad.c.o   -c \"/home/subbu/Documents/MRSD assignments/missile-defence-ai/src/glad.c\"",
+  "file": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/src/glad.c"
+},
+{
+  "directory": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src",
+  "command": "/usr/bin/cc  -D_GLFW_USE_CONFIG_H -D_XOPEN_SOURCE=500 -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src\"  -fPIC   -Wall -o CMakeFiles/glfw.dir/context.c.o   -c \"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/context.c\"",
+  "file": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/context.c"
+},
+{
+  "directory": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src",
+  "command": "/usr/bin/cc  -D_GLFW_USE_CONFIG_H -D_XOPEN_SOURCE=500 -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src\"  -fPIC   -Wall -o CMakeFiles/glfw.dir/init.c.o   -c \"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/init.c\"",
+  "file": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/init.c"
+},
+{
+  "directory": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src",
+  "command": "/usr/bin/cc  -D_GLFW_USE_CONFIG_H -D_XOPEN_SOURCE=500 -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src\"  -fPIC   -Wall -o CMakeFiles/glfw.dir/input.c.o   -c \"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/input.c\"",
+  "file": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/input.c"
+},
+{
+  "directory": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src",
+  "command": "/usr/bin/cc  -D_GLFW_USE_CONFIG_H -D_XOPEN_SOURCE=500 -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src\"  -fPIC   -Wall -o CMakeFiles/glfw.dir/monitor.c.o   -c \"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/monitor.c\"",
+  "file": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/monitor.c"
+},
+{
+  "directory": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src",
+  "command": "/usr/bin/cc  -D_GLFW_USE_CONFIG_H -D_XOPEN_SOURCE=500 -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src\"  -fPIC   -Wall -o CMakeFiles/glfw.dir/vulkan.c.o   -c \"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/vulkan.c\"",
+  "file": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/vulkan.c"
+},
+{
+  "directory": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src",
+  "command": "/usr/bin/cc  -D_GLFW_USE_CONFIG_H -D_XOPEN_SOURCE=500 -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src\"  -fPIC   -Wall -o CMakeFiles/glfw.dir/window.c.o   -c \"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/window.c\"",
+  "file": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/window.c"
+},
+{
+  "directory": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src",
+  "command": "/usr/bin/cc  -D_GLFW_USE_CONFIG_H -D_XOPEN_SOURCE=500 -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src\"  -fPIC   -Wall -o CMakeFiles/glfw.dir/x11_init.c.o   -c \"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/x11_init.c\"",
+  "file": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/x11_init.c"
+},
+{
+  "directory": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src",
+  "command": "/usr/bin/cc  -D_GLFW_USE_CONFIG_H -D_XOPEN_SOURCE=500 -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src\"  -fPIC   -Wall -o CMakeFiles/glfw.dir/x11_monitor.c.o   -c \"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/x11_monitor.c\"",
+  "file": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/x11_monitor.c"
+},
+{
+  "directory": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src",
+  "command": "/usr/bin/cc  -D_GLFW_USE_CONFIG_H -D_XOPEN_SOURCE=500 -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src\"  -fPIC   -Wall -o CMakeFiles/glfw.dir/x11_window.c.o   -c \"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/x11_window.c\"",
+  "file": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/x11_window.c"
+},
+{
+  "directory": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src",
+  "command": "/usr/bin/cc  -D_GLFW_USE_CONFIG_H -D_XOPEN_SOURCE=500 -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src\"  -fPIC   -Wall -o CMakeFiles/glfw.dir/xkb_unicode.c.o   -c \"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/xkb_unicode.c\"",
+  "file": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/xkb_unicode.c"
+},
+{
+  "directory": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src",
+  "command": "/usr/bin/cc  -D_GLFW_USE_CONFIG_H -D_XOPEN_SOURCE=500 -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src\"  -fPIC   -Wall -o CMakeFiles/glfw.dir/posix_time.c.o   -c \"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/posix_time.c\"",
+  "file": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/posix_time.c"
+},
+{
+  "directory": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src",
+  "command": "/usr/bin/cc  -D_GLFW_USE_CONFIG_H -D_XOPEN_SOURCE=500 -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src\"  -fPIC   -Wall -o CMakeFiles/glfw.dir/posix_thread.c.o   -c \"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/posix_thread.c\"",
+  "file": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/posix_thread.c"
+},
+{
+  "directory": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src",
+  "command": "/usr/bin/cc  -D_GLFW_USE_CONFIG_H -D_XOPEN_SOURCE=500 -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src\"  -fPIC   -Wall -o CMakeFiles/glfw.dir/glx_context.c.o   -c \"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/glx_context.c\"",
+  "file": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/glx_context.c"
+},
+{
+  "directory": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src",
+  "command": "/usr/bin/cc  -D_GLFW_USE_CONFIG_H -D_XOPEN_SOURCE=500 -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src\"  -fPIC   -Wall -o CMakeFiles/glfw.dir/egl_context.c.o   -c \"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/egl_context.c\"",
+  "file": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/egl_context.c"
+},
+{
+  "directory": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src",
+  "command": "/usr/bin/cc  -D_GLFW_USE_CONFIG_H -D_XOPEN_SOURCE=500 -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src\"  -fPIC   -Wall -o CMakeFiles/glfw.dir/osmesa_context.c.o   -c \"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/osmesa_context.c\"",
+  "file": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/osmesa_context.c"
+},
+{
+  "directory": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src",
+  "command": "/usr/bin/cc  -D_GLFW_USE_CONFIG_H -D_XOPEN_SOURCE=500 -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/include\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src\" -I\"/home/subbu/Documents/MRSD assignments/missile-defence-ai/build/ThirdParty/glfw/src\"  -fPIC   -Wall -o CMakeFiles/glfw.dir/linux_joystick.c.o   -c \"/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/linux_joystick.c\"",
+  "file": "/home/subbu/Documents/MRSD assignments/missile-defence-ai/ThirdParty/glfw/src/linux_joystick.c"
+}
+]

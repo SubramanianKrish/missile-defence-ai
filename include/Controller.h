@@ -32,7 +32,7 @@ namespace mrsd
 			/*
 			 * Determine safe spots at time t based on state of all observed projectiles.
 			 */
-			void determineSafeSpots(const Game& g);
+			float determineSafeSpots(const Game& g);
 
 			/*
 			 * Pick safe spot from determined safe spots.
